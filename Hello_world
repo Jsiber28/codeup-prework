@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+	
+	<head>
+		<meta charset="utf-8">
+		<title>Stepping Stone</title>
+		<link rel="stylesheet" href="css/Siberselectors.css"
+		
+	</head>
+	
+	<body>
+	<a id="top"></a>
+		<div="wrapper">
+		</div="wrapper">	
+			<h1 class="fancy-header">Hello world!</h1>
+		<p><em>Siber</em> pronounced "Cyber" is a very humorous person, many people believe that he should ply himself to stand-up comedy with his jovial anecdotes. He likes to go bowling, watch movies with friends, and being a child of the eighties loves video-games.<br> The reason I can share so much about <em>Siber</em>, is the fact that <em>Siber</em> is <strong>Me</strong>!</p>
+			<h2>My Favorite Quote</h2> 
+				<blockquote>"I'll live."</blockquote>
+			<h2>I'm learning the LAMP stack<h2>
+				<ul>
+					<li>Linux
+					<li>Apache
+					<li>Mysql
+					<li>PHP
+				</ul>
+			<h2>My Top Five Favorite Foods</h2>
+				<ol>
+					<li>Pasta
+					<li>Pizza
+					<li>Sesame Chicken
+					<Li>Brocoli Beef
+					<li>Fried Chicken
+				</ol>
+			<h2>Questions I'm Often Asked</h2>
+				<dl>
+					<dt>What can you tell us about yourself?
+					<dd>I am an intellegent, humorous, quick learner who excels in a team environment.
+					<dt>What are you doing right now?
+					<dd>I am improving my coding skills, in an hour I'm going to play my xbox one, and after that I plan to go watch a movie with friends.
+				</dl>
+		<p><span>I</span> had a wonderful vacation with my co-workers when we went to Fort Lauderdale for a bachelor party. Went spent 3 days on the beach , with fun, sand, water, and beautiful companions. It was truly a highlight of my life.</p>
+		<p> I believe that Robin Williams light was dimmed all too soon. He was an unparalled vocal actor, a character that you could always relate to, and a loving person off screen.,<br> I know that we as a community need to strive to understand depression, and the signs of our loved ones struggles with it.</p>
+		<div>
+		<h2>My Favorite Websites</h2>
+			<ul>
+				<li><a href="http://www.google.com" target="_blank">Google</a></li>
+				<li><a href="http://www.rbfcu.org" target="_blank">Randolph-Brooks Federal Credit Union</a></li>
+				<li><a href="http://www.facebook.com" target="_blank">Facebook</a></li>
+				<li><a href="http://www.netflix.com" target="_blank">Netflix</a></li>
+				<li><a href="http://www.bowlbrunswick.com/location/brunswick-zone-thousand-oaks-bowl" target="_blank">Brunswick @Thousand Oaks</a></li>
+			<ul>
+		</div>
+		<div>
+		<h2>My Vehicle</h2>
+		<p>I own a gently-used silver 2010 Kia Forte, She has been my trusty stallion through my career with Pizza Hut. I have not been the best owner for her she has many character marks, including a deep dent on her posterior from a run-in <em>literally</em> with a mail box. Although she is not the prettiest automobile, she is my <strong>car</strong>.</p></div>
+		<div><img src="img/Kia_Forte.jpg" alt="Kia_Forte"></div>
+		<div>
+		<h2>Decimal to Hexidecimal Conversion Chart</h2>
+		<table>
+			<tr>
+				<th>Decimal</th>
+				<th>Hexidecimal</th>
+			</tr>
+			<tr>
+				<td>0</td>
+				<td>0</td>
+			</tr> 
+			<tr>
+				<td>1</td>
+				<td>1</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>2</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>3</td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>5</td>
+			</tr>
+			<tr>
+				<td>6</td>
+				<td>5</td>
+			</tr>
+			<tr>
+				<td>7</td>
+				<td>7</td>
+			</tr>
+			<tr>
+				<td>8</td>
+				<td>8</td>
+			</tr>
+			<tr>
+				<td>9</td>
+				<td>9</td>
+			</tr>
+			<tr>
+				<td>10</td>
+				<td>A</td>
+			</tr>
+			<tr>
+				<td>11</td>
+				<td>B</td>
+			</tr>
+			<tr>
+				<td>12</td>
+				<td>C</td>
+			</tr>
+			<tr>
+				<td>13</td>
+				<td>D</td>
+			</tr>
+			<tr>
+				<td>14</td>
+				<td>E</td>
+			</tr>
+			<tr>
+				<td>15</td>
+				<td>F</td>
+			</tr>
+		</table>
+		</div>
+		<div>
+			<a href="#top">Go to the top of the page</a>
+	</body>
+</html>

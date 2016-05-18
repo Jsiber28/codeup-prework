@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>My First HTML Form</title>
+	</head>
+	<body>
+		<h2>User Login</h2>
+		<form method="post" action="http://requestb.in/1fa82xc1">
+			<p>
+				<label for="userename">Username</label>
+				<input id="username" name="username" type="text" placeholder="name here.">
+			</p>
+			<p>
+				<label for="password">Password</label>
+				<input id="password" name="password" type="password" placeholder="Enter your password.">
+			</p>
+			<p>			
+				<button type="submit">Login</button>
+			</p>
+		</form>
+		<h2>Compose an Email</h2>
+		<form method="post" action="http://requestb.in/1fa82xc1">
+			<p>
+				<label for="Email Address">Email Address</label>
+				<input id="Email Address" name="Email Address" type="text">
+			</p>
+			<p>
+				<label for="Subject">Subject</label>
+				<input id="Subject" name="Subject" type="text">
+			</p>
+			<p>
+				<textarea id="email_body" name="email_body" placeholder="Content Here." rows="5" cols="40"></textarea>
+			</p>
+			<p>Would you like this save to your "sent" file?</p>
+			<input type="checkbox" id="send copy" name="send copy" value="yes" checked>
+			<label for="send copy">Yes.</label>
+
+			<p>
+				<button type="submit">Send</button>	
+			</p>
+		</form>
+		<form method="post" action="http://requestb.in/1fa82xc1">
+		<h2>Multiple Choice Test</h2>
+			<p>What was Siber's Vehicle in his "Stepping Stone" HTML?</p>
+			<label>
+				<input type="radio" name="q1" value="Kia Forte">
+				Kia Forte
+			</label>
+			<label>
+				<input type="radio" name="q1" value="Toyota Matrix">
+				Toyota Matrix
+			</label>
+			<label>
+				<input type="radio" name="q1" value="Ford Focus">
+				Ford Focus
+			</label>
+			<label>
+				<input type="radio" name="q1" value="Mazda Miata">
+				Mazda Miata
+			</label>
+			<p>What are some of Siber's hobbies?</p>
+			<label>
+				<input type="radio" name="q2" value="Playing XBOX ONE">
+				Playing Xbox ONE
+			</label>
+			<Label>
+				<input type="radio" name="q2" value="Playing PlayStation">
+				Playing Playstation
+			</Label>
+			<label>
+				<input type="radio" name="q3" value="Going Bowling">
+				Going Bowling
+			</label>
+			<label>
+				<input type="radio" name="q3" value="Going Skiing">
+				Going Skiing
+			</label>
+			<label>
+				<input type="radio" name="q4" value="Watching TV">
+				Watching TV
+			</label>
+			<label>
+				<input type="radio" name="q4" value="Going to Movies">
+				Going to Movies
+			</label>
+			<label for="Siber">What is Siber like? </label>
+			<select id="Siber" name="Siber[]" multiple>
+				<option value="A team player">A team player</option>
+				<option value="humorous">humorous</option>
+				<option value="lazy">lazy</option>
+				<option value="social">social</option>
+				<option value="wise">wise</option>
+			</select>
+			<p>
+				<button type="submit">Send</button>	
+			</p>
+		</form>
+		<form method="post" action="http://requestb.in/1fa82xc1">
+		<h2>Select Testing</h2>
+			<label for="Fun">Did you eat your vegetables?:</label>
+			<select id="Fun" name="Fun">
+				<option value="1" selected>Yes</option>
+				<option value="0">No</option>
+			</select>
+	</body>
+</html>

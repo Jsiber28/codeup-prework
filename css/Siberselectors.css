@@ -1,0 +1,44 @@
+h1, h2 { color:#0f0;
+	text-decoration: underline;
+	 }
+
+
+html {
+	background-color:blue;
+}
+
+html {
+	background-image:url(https://qph.is.quoracdn.net/main-qimg-da762a3e55175330e46f58b54d25b451?convert_to_webp=true);
+	}
+
+html {background-size:x-large;
+	}
+
+html {background-position:top;
+	}
+
+html {background-repeat:no-repeat;
+	}
+
+ul { list-style: square;
+	}
+
+html {font-style: oblique;
+	}
+
+td, tr {padding: 20px;
+		font-size: 15px;
+	}
+
+a:link {
+	color:blue;
+}
+a:visited {
+	color:orange;
+}
+a:hover {
+	color:yellow;
+}
+a:active {
+	color:white;
+}
